@@ -157,3 +157,7 @@ RobertaHubInterface(
   )
 )
 ```
+
+## Training model
+
+To train this model, please follow this [repository](https://github.com/pytorch/fairseq/tree/master/examples/roberta) instruction.
